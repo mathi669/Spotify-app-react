@@ -12,7 +12,7 @@ node_modules
 dist
 dist-ssr
 *.local
-
+src/redux/services/shazamCore.js
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -23,6 +23,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
 
 # vscode
 .vscode
